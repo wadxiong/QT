@@ -1,0 +1,5 @@
+C:/Users/26548/Desktop/qt/library management system/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/LibraryManagementSystem.dir
+C:/Users/26548/Desktop/qt/library management system/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/26548/Desktop/qt/library management system/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/26548/Desktop/qt/library management system/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/LibraryManagementSystem_autogen_timestamp_deps.dir
+C:/Users/26548/Desktop/qt/library management system/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/LibraryManagementSystem_autogen.dir
